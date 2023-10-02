@@ -1,6 +1,6 @@
-# Data Critique
+## Data Critique
 [Data Critique}(https://www.lpm.org/news/2020-12-07/despite-voting-restoration-thousands-are-still-disenfranchised-in-the-ohio-valley)
-## Clarity and Accuracy
+### Clarity and Accuracy
 
 Central Insight = 4
 
@@ -14,13 +14,13 @@ Data Accuracy = 5
 
 The data used in the story is mostly from the sentencing project, which upon further research seems to be a very credible source of data. The reporter did a great job finding anecdotal stories that matched the data to put a human face on the data; however, I think the reporter should have checked with the state government's of Kentucky, Ohio, and West Virginia to verify the numbers the Sentencing Project is reporting. Perhaps the reporter could have sent a FOIA to the state-level department of corrections or developed a source there in each of the states.
 
-### Quality
+#### Quality
 
 Execution = 4
 
 The story is well written and it weaves data with perspectives from formerly incarcerated individuals in The Ohio Valley on their disenfranchisement and how it affects them. I think the reporter could have created a graphic to better summarize what the data shows about disenfranchized felons. Maybe the reporter could have included the felons demographic data, or what types of crimes many of these disenfranchized felons committeed. I think adding that data could give the reader a better idea of who is affected and why.
 
-#### Creativity
+##### Creativity
 
 Creativity Effectiveness = 2
 
