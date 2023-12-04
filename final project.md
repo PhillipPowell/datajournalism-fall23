@@ -1,4 +1,6 @@
 # Introduction
+Link to draft on Google Document: https://docs.google.com/document/d/1M63zenGLyXQ_vBCO5KO7z8pjmrjNNwqh6E4UPq1s-OY/edit?usp=sharing
+
 With Governor Ron Desantis’ nearly 20% point win over Democrat challenger Charlie Crist in 2022, many are wondering how Florida–which was once decided by a few hundred votes in 2000– is now voting so strongly for Republicans. 
 
 Before Desantis’ huge win, Donald Trump carried the state in 2020 over Biden by 3.3%, improving on his margin in 2016 and being the first losing presidential candidate to win the state since 1992.
@@ -14,6 +16,8 @@ Finally, a significant turnout gap exists between Desantis’ landslide in 2022 
 
 ### Findings from Data and Data Visualization
 Use this link to access the graphs I made in Excel: https://docs.google.com/spreadsheets/d/1455JvOxeZ0461msYrczYpx9uZbSzTIVKaF24SoQwKAQ/edit?usp=sharing
+
+**Note: As you read the pitch, reference the Excel sheet linked above with the supporting graphs. Thank you.**
 
 Before 2022, the last seven statewide elections in Florida were decided by less than 4%, regardless of how high voter turnout was, in presidential years and gubernatorial years. By that fact alone, Florida would appear to be a swing state.
 
