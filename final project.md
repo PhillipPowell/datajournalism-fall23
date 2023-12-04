@@ -16,6 +16,7 @@ Finally, a significant turnout gap exists between Desantis’ landslide in 2022 
 Use this link to access the graphs I made in Excel: https://docs.google.com/spreadsheets/d/1455JvOxeZ0461msYrczYpx9uZbSzTIVKaF24SoQwKAQ/edit?usp=sharing
 
 Before 2022, the last seven statewide elections in Florida were decided by less than 4%, regardless of how high voter turnout was, in presidential years and gubernatorial years. By that fact alone, Florida would appear to be a swing state.
+
 **Graph 1**
 
 But, according to 270toWin, Democrats haven’t won the governor’s race since 1994, though many races have been close. And aside from Barack Obama’s wins in 2008 and 2012, since the 1990s, Democrats have only won the presidential race in 1996. 
@@ -23,6 +24,7 @@ But, according to 270toWin, Democrats haven’t won the governor’s race since 
 Florida’s broader electoral history shows that the state has always tilted a bit toward Republicans in the modern era, but elections tended to be very close. Ron Desantis himself only won his first term as Florida Governor in 2018 by 0.4%, or by about 32,000 votes across the state.
 
 That changed with Ron Desantis’ huge 19.4% reelection victory, where he won by 1.5 million votes. How did Desantis do it? The answer largely lies in the election results of Florida’s six largest counties (Miami-Dade, Broward, Palm Beach, Hillsborough, Orange, and Duval).
+
 **Graph 2**
 
 Miami-Dade, the largest county in Florida, has been won by huge margins by the Democrat candidate in the last seven elections. Across the country, Democrats tend to do very well in cities and metropolitan areas while Republicans do better in rural areas.
@@ -34,28 +36,35 @@ But in 2020, Trump improved his margin to 46% of the vote and Desantis became th
 Miami-Dade has shifted toward the Republicans in the last two elections, but the other large counties in Florida also show troubling signs for Democrats' ability to win statewide.
 
 **Graph 3**
+
 Home to Orlando, Broward county has always produced huge margins for Democrats. But like Miami-Dade, the county started shifting toward the Republicans in 2020. 
 
 Trump improved his vote total in 2020 by 4% from 2016, and Desantis improved his vote total from 2018 by 10% in his 2022 win.
 
 **Graph 4**
+
 Desantis also flipped Palm Beach County in 2022, a county that Clinton won by 15% in 2016. In 2020, Trump improved on his 2016 performance by 3% and in 2022, Desantis won by 4% after losing by 17% in 2018.
 
 **Graph 5**
+
 Hillsborough county has historically been far closer than Palm Beach and Miami-Dade, but Democrats counted on winning it. Desantis also flipped the county in 2022 after Trump improved the margins for Republicans in 2020.
 
 **Graph 6**
+
 The story in Orange county is more similar to Broward county, but it still bodes poorly for Democrats trying to win the state. Since 2016, the county has voted more and more Republican and in 2022 Desantis lost by 7% after losing the first time around by 24%.
 
 **Graph 7**
+
 Finally, Duval county, the home of Jacksonville has historically been the closest large county in Florida. Trump even lost the county in 2020 after winning in 2016, and it looked like Jacksonville was trending toward the Democrats. But in 2022, Desantis won by 12% after Biden won by 3% in 2020.
 
 Republican gains in big cities along with their base of support in rural areas contributed to Desantis’ overwhelming win in 2022.
 
 Voter turnout was much lower in 2022 than in 2020, but the difference in the margin is still striking.
+
 **Graph 8**
 
 Before Desantis’ win in 2022, Republicans were gaining registered voters and registered Hispanic voters in Miami-Dade throughout the year. On the other hand, Democrats were losing registered voters.
+
 **Graph 9**
 
 Before the election in 2022, Hispanic voters made up 59% of the electorate, and Democrats were losing ground with them as Republicans were gaining. 
@@ -63,6 +72,7 @@ Before the election in 2022, Hispanic voters made up 59% of the electorate, and 
 The marginal shifts in voter registration cannot explain why Democrats did so poorly in Miami-Dade in 2022, as they still hold an advantage in total registered voters in the county. But, Hispanic voters shifting toward the Republican party is part of the story of whether Florida is trending Republican.
 
 **Graph 10**
+
 Finally, in 2022 turnout was lower than in the past two election cycles. In 2018 turnout was almost 10% higher than in 2022, so there is the outstanding question of what Democratic voter turnout looked like compared to Republican voter turnout. 
 
 If the turnout difference is largely attributed to Democrats staying home, then Florida is probably not as red as Desantis’ win makes it look. Reporting by NBC 6 South Florida, also indicates that in Miami-Dade, Palm Beach, Hillsborough, and Duval counties, registered Democrats turned out at a much lower rate than registered Republicans in those counties.
@@ -88,8 +98,11 @@ I downloaded data from the Miami-Dade County Election Results Archive on voter r
 I made the column charts using Excel.
 
 ###### Data Sources
-*Florida Department of State Division of Elections, https://results.elections.myflorida.com/Index.asp?ElectionDate=11/8/2022&DATAMODE=
-*270toWin, https://www.270towin.com/states/Florida
-*Miami-Dade County Election Results Archive, https://www.miamidade.gov/global/elections/election-results-archive.page
-*NBC 6 South Florida, https://www.nbcmiami.com/decision-2022/turnout-was-a-big-problem-for-democrats-in-major-florida-counties/2906393/
+Florida Department of State Division of Elections, https://results.elections.myflorida.com/Index.asp?ElectionDate=11/8/2022&DATAMODE=
+
+270toWin, https://www.270towin.com/states/Florida
+
+Miami-Dade County Election Results Archive, https://www.miamidade.gov/global/elections/election-results-archive.page
+
+NBC 6 South Florida, https://www.nbcmiami.com/decision-2022/turnout-was-a-big-problem-for-democrats-in-major-florida-counties/2906393/
 
