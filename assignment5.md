@@ -8,3 +8,4 @@ https://datawrapper.dwcdn.net/4GR3l/1/
 https://datawrapper.dwcdn.net/GSSy5/1/
 
 # Graph 4
+https://datawrapper.dwcdn.net/Xqe5z/1/
