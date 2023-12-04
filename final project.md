@@ -69,16 +69,23 @@ If the turnout difference is largely attributed to Democrats staying home, then 
 
 #### Future Plans for Story
 To complete this story in the future, I would want to take four steps:
-*I would spend more time analyzing the change in registered voters, especially registered Hispanic voters, in the other five biggest counties in Florida. While Hispanic voters are a majority in Miami-Dade, they are an important voting group across Florida and if they are shifting to the Republicans more broadly that could be more evidence Florida is trending Republican.
-*I would want to interview the former Chair of the Democratic Party, Manny Diaz, who resigned over Democrats loss in 2022, and other volunteers and members of the party to get a better understanding of why Democrats did so poorly.
-*I would want to interview Democratic and Republican voters in Miami-Dade county to get more qualitative evidence about the county’s shift to the Republicans in 2022.
-*I would want to focus more on whether Florida is becoming more conservative, thus trending more Republican, or if Desantis’ landslide win can be more attributed to Democrats staying home and the failures of the Florida Democratic Party.
+
+I would spend more time analyzing the change in registered voters, especially registered Hispanic voters, in the other five biggest counties in Florida. While Hispanic voters are a majority in Miami-Dade, they are an important voting group across Florida and if they are shifting to the Republicans more broadly that could be more evidence Florida is trending Republican.
+
+I would want to interview the former Chair of the Democratic Party, Manny Diaz, who resigned over Democrats loss in 2022, and other volunteers and members of the party to get a better understanding of why Democrats did so poorly.
+
+I would want to interview Democratic and Republican voters in Miami-Dade county to get more qualitative evidence about the county’s shift to the Republicans in 2022.
+
+I would want to focus more on whether Florida is becoming more conservative, thus trending more Republican, or if Desantis’ landslide win can be more attributed to Democrats staying home and the failures of the Florida Democratic Party.
 
 ##### Steps to Analyze Data
-*First, I created my spreadsheet by downloading data from the Florida Department of State Division of Elections on voter turnout, total voters, and county by county election results from 2008 to 2022.
-*After calculating voter turnout in Florida’s six largest counties, I then began deciding how I wanted to present the data visually and what the biggest takeaways were from the data including that the six most populous counties in Florida shifted toward the Republicans
-*I downloaded data from the Miami-Dade County Election Results Archive on voter registration over the 10 months leading up to the November, 2022 election. I saw that Republicans were increasing voter registration while Democrats were losing registered voters in the county.
-*I made the column charts using Excel.
+First, I created my spreadsheet by downloading data from the Florida Department of State Division of Elections on voter turnout, total voters, and county by county election results from 2008 to 2022.
+
+After calculating voter turnout in Florida’s six largest counties, I then began deciding how I wanted to present the data visually and what the biggest takeaways were from the data including that the six most populous counties in Florida shifted toward the Republicans.
+
+I downloaded data from the Miami-Dade County Election Results Archive on voter registration over the 10 months leading up to the November, 2022 election. I saw that Republicans were increasing voter registration while Democrats were losing registered voters in the county.
+
+I made the column charts using Excel.
 
 ###### Data Sources
 *Florida Department of State Division of Elections, https://results.elections.myflorida.com/Index.asp?ElectionDate=11/8/2022&DATAMODE=
